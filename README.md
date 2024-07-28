@@ -1,6 +1,6 @@
 <h2> 🌱 Hello! I'm SungKwon Cho</h2>
 
-<span> 📫 kwonnee@nexon.co.kr </span>
+<span> 📫 kwonnee@ssg.com </span>
 
 <a href="https://www.instagram.com/kwonnee_94/">
   <img
